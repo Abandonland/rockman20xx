@@ -1,0 +1,7622 @@
+{
+	"textures": [
+		{
+			"image": "effect.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1024,
+				"h": 512
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "glitch_effect_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 256,
+						"h": 224
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 256,
+						"h": 224
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 256,
+						"h": 224
+					}
+				},
+				{
+					"filename": "glitch_effect_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 256,
+						"h": 224
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 256,
+						"h": 224
+					},
+					"frame": {
+						"x": 1,
+						"y": 227,
+						"w": 256,
+						"h": 224
+					}
+				},
+				{
+					"filename": "bakuha_1_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 48,
+						"h": 48
+					},
+					"frame": {
+						"x": 1,
+						"y": 453,
+						"w": 48,
+						"h": 48
+					}
+				},
+				{
+					"filename": "energyup_mini_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 1,
+						"y": 503,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "energyup_mini_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 11,
+						"y": 503,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_0.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 21,
+						"y": 503,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 31,
+						"y": 503,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_10.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 41,
+						"y": 503,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "bakuha_1_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 48,
+						"h": 48
+					},
+					"frame": {
+						"x": 51,
+						"y": 453,
+						"w": 48,
+						"h": 48
+					}
+				},
+				{
+					"filename": "glitch_100.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 51,
+						"y": 503,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_101.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 61,
+						"y": 503,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_102.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 71,
+						"y": 503,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_103.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 81,
+						"y": 503,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_104.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 91,
+						"y": 503,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "bakuha_2_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 48,
+						"h": 48
+					},
+					"frame": {
+						"x": 101,
+						"y": 453,
+						"w": 48,
+						"h": 48
+					}
+				},
+				{
+					"filename": "glitch_105.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 101,
+						"y": 503,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_106.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 111,
+						"y": 503,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_107.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 121,
+						"y": 503,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_11.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 131,
+						"y": 503,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_12.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 141,
+						"y": 503,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "bakuha_3_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 48,
+						"h": 48
+					},
+					"frame": {
+						"x": 151,
+						"y": 453,
+						"w": 48,
+						"h": 48
+					}
+				},
+				{
+					"filename": "glitch_13.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 151,
+						"y": 503,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_14.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 161,
+						"y": 503,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_15.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 171,
+						"y": 503,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_16.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 181,
+						"y": 503,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_17.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 191,
+						"y": 503,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "bakuha_2_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 46,
+						"h": 48
+					},
+					"frame": {
+						"x": 201,
+						"y": 453,
+						"w": 46,
+						"h": 48
+					}
+				},
+				{
+					"filename": "glitch_18.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 201,
+						"y": 503,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_19.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 211,
+						"y": 503,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 221,
+						"y": 503,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_20.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 231,
+						"y": 503,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_21.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 241,
+						"y": 503,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "bakuha_2_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 39,
+						"h": 48
+					},
+					"frame": {
+						"x": 249,
+						"y": 453,
+						"w": 39,
+						"h": 48
+					}
+				},
+				{
+					"filename": "glitch_22.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 251,
+						"y": 503,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_23.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 261,
+						"y": 503,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_24.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 271,
+						"y": 503,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_25.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 281,
+						"y": 503,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_effect_3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 256,
+						"h": 224
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 256,
+						"h": 224
+					},
+					"frame": {
+						"x": 259,
+						"y": 1,
+						"w": 256,
+						"h": 224
+					}
+				},
+				{
+					"filename": "glitch_effect_4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 256,
+						"h": 224
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 256,
+						"h": 224
+					},
+					"frame": {
+						"x": 259,
+						"y": 227,
+						"w": 256,
+						"h": 224
+					}
+				},
+				{
+					"filename": "bakuha_1_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 47,
+						"h": 47
+					},
+					"frame": {
+						"x": 290,
+						"y": 453,
+						"w": 47,
+						"h": 47
+					}
+				},
+				{
+					"filename": "drone_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 4,
+						"w": 13,
+						"h": 9
+					},
+					"frame": {
+						"x": 291,
+						"y": 502,
+						"w": 13,
+						"h": 9
+					}
+				},
+				{
+					"filename": "drone_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 4,
+						"w": 11,
+						"h": 9
+					},
+					"frame": {
+						"x": 306,
+						"y": 502,
+						"w": 11,
+						"h": 9
+					}
+				},
+				{
+					"filename": "glitch_26.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 319,
+						"y": 502,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_27.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 329,
+						"y": 502,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "bakuha_4_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 1,
+						"w": 46,
+						"h": 47
+					},
+					"frame": {
+						"x": 339,
+						"y": 453,
+						"w": 46,
+						"h": 47
+					}
+				},
+				{
+					"filename": "glitch_28.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 339,
+						"y": 502,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_29.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 349,
+						"y": 502,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 359,
+						"y": 502,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_30.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 369,
+						"y": 502,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_31.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 379,
+						"y": 502,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "bakuha_4_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 41,
+						"h": 47
+					},
+					"frame": {
+						"x": 387,
+						"y": 453,
+						"w": 41,
+						"h": 47
+					}
+				},
+				{
+					"filename": "glitch_32.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 389,
+						"y": 502,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_33.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 399,
+						"y": 502,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_34.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 409,
+						"y": 502,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_35.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 419,
+						"y": 502,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_36.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 429,
+						"y": 502,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "bakuha_4_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 2,
+						"w": 39,
+						"h": 46
+					},
+					"frame": {
+						"x": 430,
+						"y": 453,
+						"w": 39,
+						"h": 46
+					}
+				},
+				{
+					"filename": "propeller_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 6,
+						"w": 26,
+						"h": 10
+					},
+					"frame": {
+						"x": 439,
+						"y": 501,
+						"w": 26,
+						"h": 10
+					}
+				},
+				{
+					"filename": "propeller_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 6,
+						"w": 18,
+						"h": 10
+					},
+					"frame": {
+						"x": 467,
+						"y": 501,
+						"w": 18,
+						"h": 10
+					}
+				},
+				{
+					"filename": "bakuha_3_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 48,
+						"h": 45
+					},
+					"frame": {
+						"x": 471,
+						"y": 453,
+						"w": 48,
+						"h": 45
+					}
+				},
+				{
+					"filename": "propeller_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 6,
+						"w": 10,
+						"h": 10
+					},
+					"frame": {
+						"x": 487,
+						"y": 500,
+						"w": 10,
+						"h": 10
+					}
+				},
+				{
+					"filename": "glitch_37.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 499,
+						"y": 500,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "star_mini.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1,
+						"h": 1
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1,
+						"h": 1
+					},
+					"frame": {
+						"x": 499,
+						"y": 510,
+						"w": 1,
+						"h": 1
+					}
+				},
+				{
+					"filename": "glitch_38.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 509,
+						"y": 500,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_39.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 519,
+						"y": 500,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_effect_5.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 256,
+						"h": 224
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 256,
+						"h": 224
+					},
+					"frame": {
+						"x": 517,
+						"y": 1,
+						"w": 256,
+						"h": 224
+					}
+				},
+				{
+					"filename": "introduction_bg.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 256,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 256,
+						"h": 64
+					},
+					"frame": {
+						"x": 517,
+						"y": 227,
+						"w": 256,
+						"h": 64
+					}
+				},
+				{
+					"filename": "bakuha_4_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 5,
+						"w": 40,
+						"h": 42
+					},
+					"frame": {
+						"x": 517,
+						"y": 293,
+						"w": 40,
+						"h": 42
+					}
+				},
+				{
+					"filename": "ami_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 3,
+						"w": 36,
+						"h": 42
+					},
+					"frame": {
+						"x": 517,
+						"y": 337,
+						"w": 36,
+						"h": 42
+					}
+				},
+				{
+					"filename": "ami_5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 3,
+						"w": 36,
+						"h": 42
+					},
+					"frame": {
+						"x": 517,
+						"y": 381,
+						"w": 36,
+						"h": 42
+					}
+				},
+				{
+					"filename": "damage.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 26,
+						"h": 26
+					},
+					"frame": {
+						"x": 517,
+						"y": 425,
+						"w": 26,
+						"h": 26
+					}
+				},
+				{
+					"filename": "erna_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 3,
+						"w": 36,
+						"h": 42
+					},
+					"frame": {
+						"x": 521,
+						"y": 453,
+						"w": 36,
+						"h": 42
+					}
+				},
+				{
+					"filename": "rocket_punch_explosion_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 26,
+						"h": 26
+					},
+					"frame": {
+						"x": 545,
+						"y": 425,
+						"w": 26,
+						"h": 26
+					}
+				},
+				{
+					"filename": "death_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 9,
+						"w": 14,
+						"h": 14
+					},
+					"frame": {
+						"x": 529,
+						"y": 497,
+						"w": 14,
+						"h": 14
+					}
+				},
+				{
+					"filename": "rocket_punch_explosion_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 9,
+						"w": 14,
+						"h": 14
+					},
+					"frame": {
+						"x": 529,
+						"y": 497,
+						"w": 14,
+						"h": 14
+					}
+				},
+				{
+					"filename": "rockbuster.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 13,
+						"h": 14
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 13,
+						"h": 14
+					},
+					"frame": {
+						"x": 545,
+						"y": 497,
+						"w": 13,
+						"h": 14
+					}
+				},
+				{
+					"filename": "erna_5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 3,
+						"w": 36,
+						"h": 42
+					},
+					"frame": {
+						"x": 559,
+						"y": 453,
+						"w": 36,
+						"h": 42
+					}
+				},
+				{
+					"filename": "energyup_big_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 16,
+						"h": 13
+					},
+					"frame": {
+						"x": 560,
+						"y": 497,
+						"w": 16,
+						"h": 13
+					}
+				},
+				{
+					"filename": "energyup_big_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 16,
+						"h": 13
+					},
+					"frame": {
+						"x": 578,
+						"y": 497,
+						"w": 16,
+						"h": 13
+					}
+				},
+				{
+					"filename": "death_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 10,
+						"w": 12,
+						"h": 12
+					},
+					"frame": {
+						"x": 596,
+						"y": 497,
+						"w": 12,
+						"h": 12
+					}
+				},
+				{
+					"filename": "rocket_punch_explosion_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 10,
+						"w": 12,
+						"h": 12
+					},
+					"frame": {
+						"x": 596,
+						"y": 497,
+						"w": 12,
+						"h": 12
+					}
+				},
+				{
+					"filename": "lotta_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 3,
+						"w": 36,
+						"h": 42
+					},
+					"frame": {
+						"x": 555,
+						"y": 337,
+						"w": 36,
+						"h": 42
+					}
+				},
+				{
+					"filename": "lotta_5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 3,
+						"w": 36,
+						"h": 42
+					},
+					"frame": {
+						"x": 559,
+						"y": 293,
+						"w": 36,
+						"h": 42
+					}
+				},
+				{
+					"filename": "mau_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 3,
+						"w": 36,
+						"h": 42
+					},
+					"frame": {
+						"x": 555,
+						"y": 381,
+						"w": 36,
+						"h": 42
+					}
+				},
+				{
+					"filename": "bakuha_3_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 13,
+						"w": 38,
+						"h": 22
+					},
+					"frame": {
+						"x": 573,
+						"y": 425,
+						"w": 38,
+						"h": 22
+					}
+				},
+				{
+					"filename": "star_middle.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 2,
+						"h": 2
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 2,
+						"h": 2
+					},
+					"frame": {
+						"x": 573,
+						"y": 449,
+						"w": 2,
+						"h": 2
+					}
+				},
+				{
+					"filename": "mau_5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 3,
+						"w": 36,
+						"h": 42
+					},
+					"frame": {
+						"x": 597,
+						"y": 449,
+						"w": 36,
+						"h": 42
+					}
+				},
+				{
+					"filename": "death_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 7,
+						"w": 18,
+						"h": 18
+					},
+					"frame": {
+						"x": 610,
+						"y": 493,
+						"w": 18,
+						"h": 18
+					}
+				},
+				{
+					"filename": "rocket_punch_explosion_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 7,
+						"w": 18,
+						"h": 18
+					},
+					"frame": {
+						"x": 610,
+						"y": 493,
+						"w": 18,
+						"h": 18
+					}
+				},
+				{
+					"filename": "e_can_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 630,
+						"y": 493,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "miyu_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 3,
+						"w": 36,
+						"h": 42
+					},
+					"frame": {
+						"x": 593,
+						"y": 337,
+						"w": 36,
+						"h": 42
+					}
+				},
+				{
+					"filename": "miyu_5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 3,
+						"w": 36,
+						"h": 42
+					},
+					"frame": {
+						"x": 597,
+						"y": 293,
+						"w": 36,
+						"h": 42
+					}
+				},
+				{
+					"filename": "remi_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 3,
+						"w": 36,
+						"h": 42
+					},
+					"frame": {
+						"x": 593,
+						"y": 381,
+						"w": 36,
+						"h": 42
+					}
+				},
+				{
+					"filename": "e_can_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 613,
+						"y": 425,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "beam_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 31,
+						"h": 4
+					},
+					"frame": {
+						"x": 613,
+						"y": 443,
+						"w": 31,
+						"h": 4
+					}
+				},
+				{
+					"filename": "remi_5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 3,
+						"w": 36,
+						"h": 42
+					},
+					"frame": {
+						"x": 635,
+						"y": 449,
+						"w": 36,
+						"h": 42
+					}
+				},
+				{
+					"filename": "ice_10_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 648,
+						"y": 493,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_10_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 666,
+						"y": 493,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ami_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 3,
+						"w": 32,
+						"h": 42
+					},
+					"frame": {
+						"x": 631,
+						"y": 337,
+						"w": 32,
+						"h": 42
+					}
+				},
+				{
+					"filename": "ami_6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 3,
+						"w": 32,
+						"h": 42
+					},
+					"frame": {
+						"x": 635,
+						"y": 293,
+						"w": 32,
+						"h": 42
+					}
+				},
+				{
+					"filename": "erna_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 3,
+						"w": 32,
+						"h": 42
+					},
+					"frame": {
+						"x": 631,
+						"y": 381,
+						"w": 32,
+						"h": 42
+					}
+				},
+				{
+					"filename": "ice_10_3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 631,
+						"y": 425,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "beam_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 2,
+						"w": 22,
+						"h": 4
+					},
+					"frame": {
+						"x": 646,
+						"y": 443,
+						"w": 22,
+						"h": 4
+					}
+				},
+				{
+					"filename": "ice_11_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 649,
+						"y": 425,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_11_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 649,
+						"y": 425,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_25_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 649,
+						"y": 425,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_25_3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 649,
+						"y": 425,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_7_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 649,
+						"y": 425,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_7_3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 649,
+						"y": 425,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "erna_6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 3,
+						"w": 32,
+						"h": 42
+					},
+					"frame": {
+						"x": 665,
+						"y": 337,
+						"w": 32,
+						"h": 42
+					}
+				},
+				{
+					"filename": "lotta_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 3,
+						"w": 32,
+						"h": 42
+					},
+					"frame": {
+						"x": 669,
+						"y": 293,
+						"w": 32,
+						"h": 42
+					}
+				},
+				{
+					"filename": "lotta_6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 3,
+						"w": 32,
+						"h": 42
+					},
+					"frame": {
+						"x": 665,
+						"y": 381,
+						"w": 32,
+						"h": 42
+					}
+				},
+				{
+					"filename": "ice_11_3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 667,
+						"y": 425,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_25_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 667,
+						"y": 425,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_7_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 667,
+						"y": 425,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "star_big.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 4,
+						"h": 4
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 4,
+						"h": 4
+					},
+					"frame": {
+						"x": 670,
+						"y": 443,
+						"w": 4,
+						"h": 4
+					}
+				},
+				{
+					"filename": "mau_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 3,
+						"w": 32,
+						"h": 42
+					},
+					"frame": {
+						"x": 673,
+						"y": 449,
+						"w": 32,
+						"h": 42
+					}
+				},
+				{
+					"filename": "beam_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 32,
+						"h": 3
+					},
+					"frame": {
+						"x": 676,
+						"y": 443,
+						"w": 32,
+						"h": 3
+					}
+				},
+				{
+					"filename": "ice_12_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 685,
+						"y": 425,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_12_3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 685,
+						"y": 425,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_30_3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 685,
+						"y": 425,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_4_3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 685,
+						"y": 425,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_12_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 684,
+						"y": 493,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_26_3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 684,
+						"y": 493,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_30_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 684,
+						"y": 493,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_4_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 684,
+						"y": 493,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_13_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 702,
+						"y": 493,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_13_3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 702,
+						"y": 493,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "mau_6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 3,
+						"w": 32,
+						"h": 42
+					},
+					"frame": {
+						"x": 707,
+						"y": 448,
+						"w": 32,
+						"h": 42
+					}
+				},
+				{
+					"filename": "ice_13_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 720,
+						"y": 492,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_14_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 738,
+						"y": 492,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_14_3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 738,
+						"y": 492,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "miyu_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 3,
+						"w": 32,
+						"h": 42
+					},
+					"frame": {
+						"x": 699,
+						"y": 337,
+						"w": 32,
+						"h": 42
+					}
+				},
+				{
+					"filename": "miyu_6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 3,
+						"w": 32,
+						"h": 42
+					},
+					"frame": {
+						"x": 703,
+						"y": 293,
+						"w": 32,
+						"h": 42
+					}
+				},
+				{
+					"filename": "remi_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 3,
+						"w": 32,
+						"h": 42
+					},
+					"frame": {
+						"x": 699,
+						"y": 381,
+						"w": 32,
+						"h": 42
+					}
+				},
+				{
+					"filename": "ice_14_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 703,
+						"y": 425,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_27_3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 703,
+						"y": 425,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "beam_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 22,
+						"h": 3
+					},
+					"frame": {
+						"x": 710,
+						"y": 443,
+						"w": 22,
+						"h": 3
+					}
+				},
+				{
+					"filename": "ice_15_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 721,
+						"y": 425,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_15_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 721,
+						"y": 425,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "remi_6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 3,
+						"w": 32,
+						"h": 42
+					},
+					"frame": {
+						"x": 733,
+						"y": 337,
+						"w": 32,
+						"h": 42
+					}
+				},
+				{
+					"filename": "erna_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 4,
+						"w": 40,
+						"h": 41
+					},
+					"frame": {
+						"x": 737,
+						"y": 293,
+						"w": 40,
+						"h": 41
+					}
+				},
+				{
+					"filename": "erna_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 4,
+						"w": 38,
+						"h": 41
+					},
+					"frame": {
+						"x": 733,
+						"y": 381,
+						"w": 38,
+						"h": 41
+					}
+				},
+				{
+					"filename": "erna_7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 4,
+						"w": 38,
+						"h": 41
+					},
+					"frame": {
+						"x": 767,
+						"y": 336,
+						"w": 38,
+						"h": 41
+					}
+				},
+				{
+					"filename": "ice_15_3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 739,
+						"y": 424,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_23_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 739,
+						"y": 424,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "mau_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 4,
+						"w": 38,
+						"h": 41
+					},
+					"frame": {
+						"x": 741,
+						"y": 442,
+						"w": 38,
+						"h": 41
+					}
+				},
+				{
+					"filename": "ice_16_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 757,
+						"y": 424,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_29_3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 757,
+						"y": 424,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "glitch_clean_14.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 8,
+						"h": 5
+					},
+					"frame": {
+						"x": 741,
+						"y": 485,
+						"w": 8,
+						"h": 5
+					}
+				},
+				{
+					"filename": "miyu_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 4,
+						"w": 38,
+						"h": 41
+					},
+					"frame": {
+						"x": 773,
+						"y": 379,
+						"w": 38,
+						"h": 41
+					}
+				},
+				{
+					"filename": "ice_16_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 775,
+						"y": 422,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_24_3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 775,
+						"y": 422,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_16_3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 756,
+						"y": 485,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_19_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 756,
+						"y": 485,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_24_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 756,
+						"y": 485,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "glitch_4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 756,
+						"y": 503,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_40.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 766,
+						"y": 503,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "ice_17_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 774,
+						"y": 485,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_28_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 774,
+						"y": 485,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_8_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 774,
+						"y": 485,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "glitch_41.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 776,
+						"y": 503,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_42.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 786,
+						"y": 503,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "remi_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 4,
+						"w": 38,
+						"h": 41
+					},
+					"frame": {
+						"x": 781,
+						"y": 440,
+						"w": 38,
+						"h": 41
+					}
+				},
+				{
+					"filename": "ice_17_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 793,
+						"y": 422,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_17_3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 793,
+						"y": 422,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_28_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 793,
+						"y": 422,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_8_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 793,
+						"y": 422,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_8_3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 793,
+						"y": 422,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_18_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 811,
+						"y": 422,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_9_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 811,
+						"y": 422,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_18_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 792,
+						"y": 483,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_9_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 792,
+						"y": 483,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "glitch_43.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 796,
+						"y": 501,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_44.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 806,
+						"y": 501,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "ice_18_3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 810,
+						"y": 483,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_9_3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 810,
+						"y": 483,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ami_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 4,
+						"w": 37,
+						"h": 41
+					},
+					"frame": {
+						"x": 821,
+						"y": 440,
+						"w": 37,
+						"h": 41
+					}
+				},
+				{
+					"filename": "glitch_45.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 816,
+						"y": 501,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_46.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 826,
+						"y": 501,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "ice_19_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 828,
+						"y": 483,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "glitch_47.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 836,
+						"y": 501,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "ice_19_3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 846,
+						"y": 483,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "glitch_48.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 846,
+						"y": 501,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_49.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 856,
+						"y": 501,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "bakuha_3_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 48,
+						"h": 39
+					},
+					"frame": {
+						"x": 866,
+						"y": 1,
+						"w": 48,
+						"h": 39
+					}
+				},
+				{
+					"filename": "ami_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 4,
+						"w": 35,
+						"h": 41
+					},
+					"frame": {
+						"x": 829,
+						"y": 1,
+						"w": 35,
+						"h": 41
+					}
+				},
+				{
+					"filename": "ice_1_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 807,
+						"y": 1,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_20_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 807,
+						"y": 1,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "bakuha_2_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 5,
+						"w": 30,
+						"h": 38
+					},
+					"frame": {
+						"x": 775,
+						"y": 1,
+						"w": 30,
+						"h": 38
+					}
+				},
+				{
+					"filename": "ice_1_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 807,
+						"y": 19,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_1_3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 807,
+						"y": 19,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_20_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 807,
+						"y": 19,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_20_3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 807,
+						"y": 37,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_21_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 779,
+						"y": 41,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_2_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 779,
+						"y": 41,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_2_3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 779,
+						"y": 41,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "glitch_5.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 797,
+						"y": 41,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_50.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 797,
+						"y": 51,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "ice_21_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 779,
+						"y": 59,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_2_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 779,
+						"y": 59,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "bakuha_1_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 8,
+						"w": 38,
+						"h": 30
+					},
+					"frame": {
+						"x": 916,
+						"y": 1,
+						"w": 38,
+						"h": 30
+					}
+				},
+				{
+					"filename": "lotta_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 4,
+						"w": 37,
+						"h": 41
+					},
+					"frame": {
+						"x": 956,
+						"y": 1,
+						"w": 37,
+						"h": 41
+					}
+				},
+				{
+					"filename": "ami_7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 4,
+						"w": 36,
+						"h": 41
+					},
+					"frame": {
+						"x": 916,
+						"y": 33,
+						"w": 36,
+						"h": 41
+					}
+				},
+				{
+					"filename": "erna_8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 4,
+						"w": 36,
+						"h": 41
+					},
+					"frame": {
+						"x": 866,
+						"y": 42,
+						"w": 36,
+						"h": 41
+					}
+				},
+				{
+					"filename": "lotta_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 4,
+						"w": 35,
+						"h": 41
+					},
+					"frame": {
+						"x": 829,
+						"y": 44,
+						"w": 35,
+						"h": 41
+					}
+				},
+				{
+					"filename": "lamp_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 10,
+						"w": 9,
+						"h": 6
+					},
+					"frame": {
+						"x": 904,
+						"y": 42,
+						"w": 9,
+						"h": 6
+					}
+				},
+				{
+					"filename": "lamp_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 10,
+						"w": 9,
+						"h": 6
+					},
+					"frame": {
+						"x": 904,
+						"y": 50,
+						"w": 9,
+						"h": 6
+					}
+				},
+				{
+					"filename": "glitch_51.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 904,
+						"y": 58,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_52.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 904,
+						"y": 68,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "ice_21_3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 807,
+						"y": 55,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "glitch_53.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 797,
+						"y": 61,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_54.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 797,
+						"y": 71,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "ice_22_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 779,
+						"y": 77,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_22_3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 779,
+						"y": 77,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_3_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 779,
+						"y": 77,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_3_3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 779,
+						"y": 77,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_22_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 807,
+						"y": 73,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_3_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 807,
+						"y": 73,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "glitch_55.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 797,
+						"y": 81,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "ice_23_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 995,
+						"y": 1,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "glitch_56.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 1013,
+						"y": 1,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_57.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 1013,
+						"y": 11,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "ice_23_3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 995,
+						"y": 19,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "glitch_58.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 1013,
+						"y": 21,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_59.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 1013,
+						"y": 31,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "ice_24_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 995,
+						"y": 37,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "glitch_6.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 1013,
+						"y": 41,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_60.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 1013,
+						"y": 51,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "lotta_7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 4,
+						"w": 36,
+						"h": 41
+					},
+					"frame": {
+						"x": 954,
+						"y": 44,
+						"w": 36,
+						"h": 41
+					}
+				},
+				{
+					"filename": "mau_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 4,
+						"w": 36,
+						"h": 41
+					},
+					"frame": {
+						"x": 914,
+						"y": 76,
+						"w": 36,
+						"h": 41
+					}
+				},
+				{
+					"filename": "glitch_61.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 904,
+						"y": 78,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "mau_7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 4,
+						"w": 36,
+						"h": 41
+					},
+					"frame": {
+						"x": 866,
+						"y": 85,
+						"w": 36,
+						"h": 41
+					}
+				},
+				{
+					"filename": "glitch_62.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 904,
+						"y": 88,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_63.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 904,
+						"y": 98,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_64.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 904,
+						"y": 108,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_65.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 904,
+						"y": 118,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "mau_8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 4,
+						"w": 34,
+						"h": 41
+					},
+					"frame": {
+						"x": 829,
+						"y": 87,
+						"w": 34,
+						"h": 41
+					}
+				},
+				{
+					"filename": "ice_26_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 992,
+						"y": 55,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_26_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 992,
+						"y": 55,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_30_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 992,
+						"y": 55,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_27_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 807,
+						"y": 91,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_27_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 807,
+						"y": 91,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "glitch_66.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 797,
+						"y": 91,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "ice_28_3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 779,
+						"y": 95,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "glitch_67.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 797,
+						"y": 101,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "ice_29_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 807,
+						"y": 109,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "glitch_68.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 797,
+						"y": 111,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "ice_29_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 779,
+						"y": 113,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "glitch_69.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 797,
+						"y": 121,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "ice_31_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 807,
+						"y": 127,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "glitch_7.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 1010,
+						"y": 61,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_70.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 1010,
+						"y": 71,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "ice_31_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 992,
+						"y": 73,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "miyu_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 4,
+						"w": 36,
+						"h": 41
+					},
+					"frame": {
+						"x": 952,
+						"y": 87,
+						"w": 36,
+						"h": 41
+					}
+				},
+				{
+					"filename": "miyu_7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 4,
+						"w": 36,
+						"h": 41
+					},
+					"frame": {
+						"x": 914,
+						"y": 119,
+						"w": 36,
+						"h": 41
+					}
+				},
+				{
+					"filename": "ami_8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 4,
+						"w": 33,
+						"h": 41
+					},
+					"frame": {
+						"x": 990,
+						"y": 91,
+						"w": 33,
+						"h": 41
+					}
+				},
+				{
+					"filename": "glitch_71.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 1010,
+						"y": 81,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "remi_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 4,
+						"w": 36,
+						"h": 41
+					},
+					"frame": {
+						"x": 952,
+						"y": 130,
+						"w": 36,
+						"h": 41
+					}
+				},
+				{
+					"filename": "lotta_8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 4,
+						"w": 33,
+						"h": 41
+					},
+					"frame": {
+						"x": 990,
+						"y": 134,
+						"w": 33,
+						"h": 41
+					}
+				},
+				{
+					"filename": "ice_31_3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 779,
+						"y": 131,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "glitch_72.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 797,
+						"y": 131,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_73.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 797,
+						"y": 141,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "ice_4_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 779,
+						"y": 149,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "remi_7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 4,
+						"w": 36,
+						"h": 41
+					},
+					"frame": {
+						"x": 866,
+						"y": 128,
+						"w": 36,
+						"h": 41
+					}
+				},
+				{
+					"filename": "glitch_74.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 904,
+						"y": 128,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_75.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 904,
+						"y": 138,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_76.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 904,
+						"y": 148,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_77.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 904,
+						"y": 158,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "miyu_8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 4,
+						"w": 34,
+						"h": 41
+					},
+					"frame": {
+						"x": 829,
+						"y": 130,
+						"w": 34,
+						"h": 41
+					}
+				},
+				{
+					"filename": "remi_8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 4,
+						"w": 34,
+						"h": 41
+					},
+					"frame": {
+						"x": 914,
+						"y": 162,
+						"w": 34,
+						"h": 41
+					}
+				},
+				{
+					"filename": "glitch_78.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 904,
+						"y": 168,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "ice_5_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 807,
+						"y": 145,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "glitch_79.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 797,
+						"y": 151,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_8.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 797,
+						"y": 161,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "ice_5_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 779,
+						"y": 167,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_5_3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 807,
+						"y": 163,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "glitch_80.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 797,
+						"y": 171,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "ice_6_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 866,
+						"y": 171,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "ice_6_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 884,
+						"y": 171,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "glitch_81.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 902,
+						"y": 178,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_82.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 902,
+						"y": 188,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "ice_6_3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 866,
+						"y": 189,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "lava_1_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 884,
+						"y": 189,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "glitch_83.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 902,
+						"y": 198,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "lava_1_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 866,
+						"y": 207,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "lava_1_3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 884,
+						"y": 207,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "lava_2_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 829,
+						"y": 173,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "lava_2_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 847,
+						"y": 173,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "lava_2_3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 807,
+						"y": 181,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "glitch_84.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 797,
+						"y": 181,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "lava_4_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 779,
+						"y": 185,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "glitch_85.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 797,
+						"y": 191,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "lava_4_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 829,
+						"y": 191,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "lava_4_3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 847,
+						"y": 191,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "lava_5_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 807,
+						"y": 199,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "glitch_86.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 797,
+						"y": 201,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "lava_5_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 779,
+						"y": 203,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "glitch_87.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 797,
+						"y": 211,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "lava_5_3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 829,
+						"y": 209,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "oni_anime_1_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 847,
+						"y": 209,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "oni_anime_1_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 807,
+						"y": 217,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "oni_anime_2_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 779,
+						"y": 221,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "glitch_88.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 797,
+						"y": 221,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_89.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 797,
+						"y": 231,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "oni_anime_2_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 779,
+						"y": 239,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "powerup_big_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 775,
+						"y": 257,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "powerup_big_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 775,
+						"y": 275,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "waterfall_1_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 950,
+						"y": 173,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "waterfall_1_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 968,
+						"y": 173,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "waterfall_1_3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 986,
+						"y": 177,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "waterfall_2_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 1004,
+						"y": 177,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "waterfall_2_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 950,
+						"y": 191,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "waterfall_2_3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 968,
+						"y": 191,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "waterfall_3_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 912,
+						"y": 205,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "glitch_9.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 902,
+						"y": 208,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_90.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 902,
+						"y": 218,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "waterfall_3_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 930,
+						"y": 205,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "waterfall_3_3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 866,
+						"y": 225,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "lava_3_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 15,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 15,
+						"h": 16
+					},
+					"frame": {
+						"x": 884,
+						"y": 225,
+						"w": 15,
+						"h": 16
+					}
+				},
+				{
+					"filename": "lava_3_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 15,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 15,
+						"h": 16
+					},
+					"frame": {
+						"x": 829,
+						"y": 227,
+						"w": 15,
+						"h": 16
+					}
+				},
+				{
+					"filename": "lava_3_3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 15,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 15,
+						"h": 16
+					},
+					"frame": {
+						"x": 846,
+						"y": 227,
+						"w": 15,
+						"h": 16
+					}
+				},
+				{
+					"filename": "glitch_91.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 813,
+						"y": 235,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_92.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 797,
+						"y": 241,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_93.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 986,
+						"y": 195,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_94.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 996,
+						"y": 195,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_95.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 1006,
+						"y": 195,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "damage_top_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 5,
+						"w": 7,
+						"h": 8
+					},
+					"frame": {
+						"x": 1016,
+						"y": 195,
+						"w": 7,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_96.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 986,
+						"y": 205,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_97.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 996,
+						"y": 205,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_98.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 1006,
+						"y": 205,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_clean_15.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 7,
+						"h": 8
+					},
+					"frame": {
+						"x": 1016,
+						"y": 205,
+						"w": 7,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_99.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 948,
+						"y": 209,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_clean_0.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 958,
+						"y": 209,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_clean_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 968,
+						"y": 209,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "death_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 13,
+						"w": 6,
+						"h": 6
+					},
+					"frame": {
+						"x": 978,
+						"y": 209,
+						"w": 6,
+						"h": 6
+					}
+				},
+				{
+					"filename": "rocket_punch_explosion_5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 13,
+						"w": 6,
+						"h": 6
+					},
+					"frame": {
+						"x": 978,
+						"y": 209,
+						"w": 6,
+						"h": 6
+					}
+				},
+				{
+					"filename": "glitch_clean_10.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 986,
+						"y": 215,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_clean_11.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 996,
+						"y": 215,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_clean_12.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 1006,
+						"y": 215,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "damage_top_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 4,
+						"w": 7,
+						"h": 7
+					},
+					"frame": {
+						"x": 1016,
+						"y": 215,
+						"w": 7,
+						"h": 7
+					}
+				},
+				{
+					"filename": "damage_top_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 7,
+						"h": 6
+					},
+					"frame": {
+						"x": 1016,
+						"y": 224,
+						"w": 7,
+						"h": 6
+					}
+				},
+				{
+					"filename": "glitch_clean_16.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 948,
+						"y": 219,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_clean_17.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 958,
+						"y": 219,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_clean_18.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 968,
+						"y": 219,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_clean_19.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 912,
+						"y": 223,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_clean_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 901,
+						"y": 228,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_clean_20.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 922,
+						"y": 223,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_clean_21.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 932,
+						"y": 223,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_clean_22.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 978,
+						"y": 225,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_clean_23.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 988,
+						"y": 225,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_clean_24.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 998,
+						"y": 225,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_clean_3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 1008,
+						"y": 232,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_clean_4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 942,
+						"y": 229,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_clean_5.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 952,
+						"y": 229,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_clean_6.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 962,
+						"y": 229,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_clean_7.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 911,
+						"y": 233,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_clean_8.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 901,
+						"y": 238,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_clean_9.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 921,
+						"y": 233,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "powerup_mini_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 931,
+						"y": 233,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "powerup_mini_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 866,
+						"y": 243,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "glitch_clean_13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 8,
+						"h": 7
+					},
+					"frame": {
+						"x": 876,
+						"y": 243,
+						"w": 8,
+						"h": 7
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:a0e40e0fb35bc1e918d0498418b424cd:afc469f3bba937fefc1aa1ca999b59fd:b60d9131f70683876e2c96e2120f0b99$"
+	}
+}

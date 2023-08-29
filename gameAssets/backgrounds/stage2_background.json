@@ -1,0 +1,272 @@
+{
+	"textures": [
+		{
+			"image": "stage2_background.png",
+			"format": "RGB888",
+			"size": {
+				"w": 2048,
+				"h": 1024
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "airman_back_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 512,
+						"h": 224
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 512,
+						"h": 224
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 512,
+						"h": 224
+					}
+				},
+				{
+					"filename": "airman_back_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 512,
+						"h": 224
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 512,
+						"h": 224
+					},
+					"frame": {
+						"x": 1,
+						"y": 227,
+						"w": 512,
+						"h": 224
+					}
+				},
+				{
+					"filename": "airman_back_4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 512,
+						"h": 224
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 512,
+						"h": 224
+					},
+					"frame": {
+						"x": 1,
+						"y": 227,
+						"w": 512,
+						"h": 224
+					}
+				},
+				{
+					"filename": "airman_back_3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 512,
+						"h": 224
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 512,
+						"h": 224
+					},
+					"frame": {
+						"x": 1,
+						"y": 453,
+						"w": 512,
+						"h": 224
+					}
+				},
+				{
+					"filename": "bubbleman_back.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 512,
+						"h": 224
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 512,
+						"h": 224
+					},
+					"frame": {
+						"x": 1,
+						"y": 679,
+						"w": 512,
+						"h": 224
+					}
+				},
+				{
+					"filename": "crashman_back.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 512,
+						"h": 224
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 512,
+						"h": 224
+					},
+					"frame": {
+						"x": 515,
+						"y": 1,
+						"w": 512,
+						"h": 224
+					}
+				},
+				{
+					"filename": "flashman_back.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 512,
+						"h": 224
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 512,
+						"h": 224
+					},
+					"frame": {
+						"x": 1029,
+						"y": 1,
+						"w": 512,
+						"h": 224
+					}
+				},
+				{
+					"filename": "heatman_back.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 512,
+						"h": 224
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 512,
+						"h": 224
+					},
+					"frame": {
+						"x": 515,
+						"y": 227,
+						"w": 512,
+						"h": 224
+					}
+				},
+				{
+					"filename": "metalman_back_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 512,
+						"h": 224
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 512,
+						"h": 224
+					},
+					"frame": {
+						"x": 515,
+						"y": 453,
+						"w": 512,
+						"h": 224
+					}
+				},
+				{
+					"filename": "metalman_back_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 512,
+						"h": 224
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 512,
+						"h": 224
+					},
+					"frame": {
+						"x": 515,
+						"y": 679,
+						"w": 512,
+						"h": 224
+					}
+				},
+				{
+					"filename": "quickman_back.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 512,
+						"h": 224
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 512,
+						"h": 224
+					},
+					"frame": {
+						"x": 1029,
+						"y": 227,
+						"w": 512,
+						"h": 224
+					}
+				},
+				{
+					"filename": "woodman_back.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 512,
+						"h": 224
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 512,
+						"h": 224
+					},
+					"frame": {
+						"x": 1029,
+						"y": 453,
+						"w": 512,
+						"h": 224
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:14f4e81546d03a8169cccde353f1f50b:706c0d16a0917d00bfe85567af68ffa5:7dde9cf9fab447017b5c83ea182df4f3$"
+	}
+}
